@@ -66,16 +66,8 @@ Build a Movie App using ReactJS.
   
 
 
-### At the end of the project, students will be able to;
-
-- improve coding skills within HTML & CSS & JS & ReactJS.
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 
-## Notes
-
-- You can add additional functionalities to your app.
 
 
 

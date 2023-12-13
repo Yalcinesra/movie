@@ -6,7 +6,6 @@
 
 Project aims to create a Movie App.
 
-![Project Snapshot](movie-app_structure.png)
 ## Expected Outcome
 
 ![Project Snapshot](movie.gif)
